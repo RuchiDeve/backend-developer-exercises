@@ -11,7 +11,7 @@ A Java program that identifies the smallest positive integer not present in a gi
 
 Implemented in src/main/java/org/example/Main.java.
 The findSmallestNonOccurringInteger method determines the smallest non-occurring integer by utilizing a HashSet for efficient lookups.
-Usage:
+### Usage:
 
 Compile the Java program.
 Run the program to see the smallest non-occurring integers for sample arrays.
