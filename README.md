@@ -4,7 +4,7 @@ This repository contains solutions for three backend developer exercises.
 Each exercise showcases different skills in Java programming, SQL query writing, and RESTful API development.
 ## Exercises
 ## Exercise 1: Smallest Non-Occurring Integer
-## Description:**
+## Description:
 A Java program that identifies the smallest positive integer not present in a given array.
 
 ## Implementation:
@@ -45,6 +45,6 @@ Stock object includes fields: id, name, currentPrice, createDate, and lastUpdate
 Setup:
 
 Navigate to exercise3/.
-Use Maven to build and run the application:
-mvn spring-boot:run
+### Use Maven to build and run the application:
+### mvn spring-boot:run
 
