@@ -34,12 +34,12 @@ A Java-based RESTful API to manage stocks using Spring Boot and Reactive Program
 
 Developed using Spring Boot.
 Contains endpoints to manage stock information:
-GET /api/stocks: Retrieve a list of stocks.
-GET /api/stocks/{id}: Retrieve a specific stock by ID.
-PUT /api/stocks/{id}: Update the price of a stock by ID.
-POST /api/stocks: Create a new stock.
-Notes:
+**GET /api/stocks: Retrieve a list of stocks.**
+**GET /api/stocks/{id}: Retrieve a specific stock by ID.**
+**POST /api/stocks: Create a new stock.**
+**PUT /api/stocks/{id}: Update the price of a stock by ID.**
 
+## Notes:
 The stock list is maintained in memory.
 Stock object includes fields: id, name, currentPrice, createDate, and lastUpdate.
 Setup:
